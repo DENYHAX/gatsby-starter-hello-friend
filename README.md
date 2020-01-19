@@ -1,4 +1,4 @@
-## This repository was forked from [https://github.com/panr/gatsby-starter-hello-friend](https://github.com/panr/gatsby-starter-hello-friend)
+## This repository was forked from [gatsby-starter-hello-friend](https://github.com/panr/gatsby-starter-hello-friend)
 
 ## Hello Friend
 
