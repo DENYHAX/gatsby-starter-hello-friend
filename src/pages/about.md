@@ -7,17 +7,6 @@ path: "/about"
 
 ## Hi there
 
-My name is Radek and I'm the author of this starter. I made it to help you present your ideas easier.
+My name is Daniel and I'm the author blog.
 
-We all know how hard is to start something on the web, especially these days. You need to prepare a bunch of stuff, configure them and when that’s done — create the content.
-
-This starter is pretty basic and covers all of the essentials. All you have to do is start typing!
-
-The starter includes:
-
-- **light/dark mode**, depending on your preferences
-- great reading experience thanks to [**Inter UI font**](https://rsms.me/inter/), made by [Rasmus Andersson](https://rsms.me/about/)
-- nice code highlighting thanks to [**PrismJS**](https://prismjs.com)
-- responsive youtube/vimeo etc. videos thanks to [**gatsby-remark-embed-video**](https://github.com/borgfriend/gatsby-remark-embed-video)
-
-So, there you have it... enjoy!
+I'm a 21 years old IT guy who tries to solve most of his problems with coding. I love getting to know new technologies. Developing games as a hobby. I'm an Android power user, love to use custom ROMs and modded apps. Favorite OS: Ubuntu. Favorite music styles: Hip-Hop, Raggae
