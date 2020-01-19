@@ -1,11 +1,11 @@
 ---
-title: "Hello Friend"
+title: "Hello World"
 path: "/hello"
 date: "2019-01-17"
 coverImage: "../images/hello.jpg"
-author: "Elliot"
-excerpt: '"Hello, friend?" That''s lame. Maybe I should give you a name...'
-tags: ["rob____ot", "hello friend"]
+author: "denyhax"
+excerpt: '" Hello, friend?" That''s lame. Maybe I should give you a name...'
+tags: ["hello_world", "sup_yall"]
 ---
 
 > "Hello, friend?" That's lame. Maybe I should give you a name...\

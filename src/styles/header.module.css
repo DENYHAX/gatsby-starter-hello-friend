@@ -39,11 +39,15 @@
   margin-right: 5px;
 }
 
+.markslash {
+  color: chartreuse;
+}
+
 .cursor {
   display: inline-block;
   width: 10px;
   height: 1rem;
-  background: #fe5186;
+  background: #781ab2;
   margin-left: 5px;
   border-radius: 1px;
   animation: cursor 1s infinite;
