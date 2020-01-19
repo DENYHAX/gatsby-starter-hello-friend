@@ -1,7 +1,7 @@
 ---
 title: "Hello World"
 path: "/hello"
-date: "2019-01-17"
+date: "2019-01-20"
 coverImage: "../images/hello-world.png"
 author: "denyhax"
 excerpt: 'Hey! I just started my blog...'
