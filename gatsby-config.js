@@ -7,7 +7,7 @@ const postCSSMixins = require('postcss-mixins')
 
 module.exports = {
   siteMetadata: {
-    title: `DENYHAX`,
+    title: `DENYHAX.COM`,
     description: `Personal blog about my projects and stuff`,
     copyrights: '',
     author: `@denyhax`,
@@ -112,7 +112,7 @@ module.exports = {
         background_color: `#292a2d`,
         theme_color: `#292a2d`,
         display: `minimal-ui`,
-        icon: `src/images/hello-icon.png`,
+        icon: `src/images/favicon.png`,
       },
     },
   ],

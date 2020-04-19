@@ -9,4 +9,5 @@ tags: ["hello-world", "sup-yall"]
 ---
 
 ## Hey! 
-### I just started my blog. Here I'll share my thoughts about new tech stuffs and some info about my ongoing projects. 
+## I just started my blog. :)
+Here I'll share my thoughts about new tech stuffs and some info about my ongoing projects. 
